@@ -1,0 +1,6 @@
+.vscode/
+Trash/
+fib
+traces.txt
+*.pprof
+*.svg
